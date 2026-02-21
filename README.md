@@ -60,6 +60,7 @@ This project was developed without any external frameworks or libraries.
 
 ## 🚀 Live Preview
 
+https://art-class-landing-page.netlify.app/
 
 ---
 
